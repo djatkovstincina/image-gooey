@@ -14,7 +14,7 @@ Tech stack:
 
 ### _Navigate to the project folder_
 ```sh
-cd gooey-image
+cd image-gooey
 ```
 
 ### Install
